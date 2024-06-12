@@ -1,0 +1,12 @@
+.modal {
+    width: 300px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    background: white;
+    box-shadow: rgba(100 ,100, 100, 0.3) 2px 2px 2px 2px;
+}
